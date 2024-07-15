@@ -56,16 +56,16 @@
     <p>Welcome to the image gallery. Below you'll find a collection of 15 beautiful images.</p>
     <div class="gallery">
         <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 1">
-            <div class="caption">Caption for Image 1</div>
+            <img src="images/IMG-20240712-WA0003.jpg" alt="Image 1">
+            <div class="caption">On top of the Malvern Hills</div>
         </div>
         <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 2">
-            <div class="caption">Caption for Image 2</div>
+            <img src="images/IMG-20240712-WA0007.jpg" alt="Image 2">
+            <div class="caption">A cow</div>
         </div>
         <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 3">
-            <div class="caption">Caption for Image 3</div>
+            <img src="images/IMG-20240712-WA0013.jpg" alt="Image 3">
+            <div class="caption">Pretty view of Malven Hills</div>
         </div>
         <div class="gallery-item">
             <img src="https://via.placeholder.com/150" alt="Image 4">
