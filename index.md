@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -127,8 +126,6 @@
             <img src="images/IMG-20240714-WA0006.jpg.jpg" alt="Image 9">
             <div class="caption">The King Pigeon</div>
         </div>                        
-
-        </div>
     </div>
     <p>Thank you for visiting the gallery!</p>
 </body>
