@@ -36,7 +36,7 @@
             transition: transform 0.2s;
         }
         .gallery img:hover {
-            transform: scale(1.50);
+            transform: scale(1.30);
         }
         .caption {
             position: absolute;
