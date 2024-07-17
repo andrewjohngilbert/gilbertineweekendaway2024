@@ -51,7 +51,7 @@
     </style>
 </head>
 <body>
-    <h1>Gilbertine Weekend Away - Herefore 2024_2</h1>
+    <h1>Gilbertine Weekend Away - Herefore 2024</h1>
     <p>For the Gilbertine Lab, weekend away 2024, we headed to Hereford to sample the river Wye, through a day of canoeing</p>
     <div class="gallery">
         <div class="gallery-item">
