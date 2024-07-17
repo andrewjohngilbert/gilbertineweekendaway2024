@@ -2,7 +2,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gilbertine Weekend Away - Herefore 2024</title>
+    <title>Image Gallery</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -55,12 +56,16 @@
     <p>For the Gilbertine Lab, weekend away 2024, we headed to Hereford to sample the river Wye, through a day of canoeing</p>
     <div class="gallery">
         <div class="gallery-item">
-            <img src="images/IMG_5436.jpg" alt="Image 7">
-            <div class="caption">The weekend Logo</div>
+            <a href="images/IMG_5436.jpg" data-lightbox="gallery" data-title="The weekend Logo">
+                <img src="images/IMG_5436.jpg" alt="Image 7">
+                <div class="caption">The weekend Logo</div>
+            </a>
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240712-WA0003.jpg" alt="Image 1">
-            <div class="caption">On top of the Malvern Hills</div>
+            <a href="images/IMG-20240712-WA0003.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">        
+                <img src="images/IMG-20240712-WA0003.jpg" alt="Image 1">
+                <div class="caption">On top of the Malvern Hills</div>
+            </a>    
         </div>
         <div class="gallery-item">
             <img src="images/IMG-20240712-WA0007-w.jpg" alt="Image 2">
