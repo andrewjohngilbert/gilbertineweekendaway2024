@@ -68,12 +68,12 @@
             <div class="caption">Pretty view of Malven Hills</div>
         </div>
         <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 4">
-            <div class="caption">Caption for Image 4</div>
+            <img src="images/IMG-20240713-WA0001.jpg" alt="Image 4">
+            <div class="caption">Conaling on the River Wye</div>
         </div>
         <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 5">
-            <div class="caption">Caption for Image 5</div>
+            <img src="images/IMG-20240713-WA0004.jpg" alt="Image 5">
+            <div class="caption">Ed and Xu</div>
         </div>
         <div class="gallery-item">
             <img src="https://via.placeholder.com/150" alt="Image 6">
@@ -92,8 +92,8 @@
             <div class="caption">Caption for Image 9</div>
         </div>
         <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 10">
-            <div class="caption">Caption for Image 10</div>
+            <img src="images/PXL_20240713_195348632.MP.jpg" alt="Image 10">
+            <div class="caption">Shedgh and Ed playing Pool</div>
         </div>
         <div class="gallery-item">
             <img src="https://via.placeholder.com/150" alt="Image 11">
