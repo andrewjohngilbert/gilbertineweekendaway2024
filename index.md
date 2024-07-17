@@ -19,7 +19,7 @@
         }
         .gallery {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             gap: 20px;
             max-width: 1000px;
             width: 100%;
@@ -36,7 +36,7 @@
             transition: transform 0.2s;
         }
         .gallery img:hover {
-            transform: scale(1.05);
+            transform: scale(1.10);
         }
         .caption {
             position: absolute;
@@ -53,8 +53,12 @@
 </head>
 <body>
     <h1>Image Gallery</h1>
-    <p>Welcome to the image gallery. Below you'll find a collection of 15 beautiful images.</p>
+    <p>For the Gilbertine Lab, weekend away 2024, we headed to Hereford to sample the river Wye, through a day of canoeing</p>
     <div class="gallery">
+        <div class="gallery-item">
+            <img src="images/IMG_5436.jpg" alt="Image 7">
+            <div class="caption">The weekend Logo</div>
+        </div>
         <div class="gallery-item">
             <img src="images/IMG-20240712-WA0003.jpg" alt="Image 1">
             <div class="caption">On top of the Malvern Hills</div>
@@ -78,10 +82,6 @@
         <div class="gallery-item">
             <img src="https://via.placeholder.com/150" alt="Image 6">
             <div class="caption">Caption for Image 6</div>
-        </div>
-        <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 7">
-            <div class="caption">Caption for Image 7</div>
         </div>
         <div class="gallery-item">
             <img src="https://via.placeholder.com/150" alt="Image 8">
