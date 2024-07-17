@@ -92,6 +92,22 @@
             <div class="caption">Morred up for lunch</div>
         </div>
         <div class="gallery-item">
+            <img src="images/IMG-20240713-WA0016.jpg" alt="Image 5">
+            <div class="caption">Hay on Wye Castle for Lunch</div>
+        </div>
+        <div class="gallery-item">
+            <img src="images/PXL_20240713_091408242.jpg" alt="Image 8">
+            <div class="caption">Paddling</div>
+        </div>
+        <div class="gallery-item">
+            <img src="images/IMG-20240713-WA0008.jpg" alt="Image 8">
+            <div class="caption">Flowers</div>
+        </div>
+        <div class="gallery-item">
+            <img src="images/IMG-20240712-WA0001.jpg" alt="Image 9">
+            <div class="caption">The tesco</div>
+        </div>        
+        <div class="gallery-item">
             <img src="images/IMG-20240714-WA0000.jpg" alt="Image 9">
             <div class="caption">Tresure Trail in Hereford</div>
         </div>
