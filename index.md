@@ -68,68 +68,100 @@
             </a>    
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240712-WA0007-w.jpg" alt="Image 2">
-            <div class="caption">A cow</div>
+            <a href="images/IMG-20240712-WA0007.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240712-WA0007-w.jpg" alt="Image 2">
+                <div class="caption">A cow</div>
+            </a>
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240712-WA0013.jpg" alt="Image 3">
-            <div class="caption">Pretty view of Malven Hills</div>
+            <a href="images/IMG-20240712-WA0003.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">            
+                <img src="images/IMG-20240712-WA0013.jpg" alt="Image 3">
+                <div class="caption">Pretty view of Malven Hills</div>
+            </a>    
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240713-WA0001.jpg" alt="Image 4">
-            <div class="caption">Conaling on the River Wye</div>
+            <a href="images/IMG-20240713-WA0001.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240713-WA0001.jpg" alt="Image 4">
+                <div class="caption">Canoeing on the River Wye</div>
+            </a>    
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240713-WA0003.jpg" alt="Image 6">
-            <div class="caption">The Group, with Sadegh and I after jsut capsizing</div>
+            <a href="images/IMG-20240713-WA0003.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240713-WA0003.jpg" alt="Image 6">
+                <div class="caption">The Group, with Sadegh and I after jsut capsizing</div>
+            </a>
         </div>        
         <div class="gallery-item">
-            <img src="images/IMG-20240713-WA0004.jpg" alt="Image 5">
-            <div class="caption">Ed and Xu</div>
+            <a href="images/IMG-20240713-WA0004.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240713-WA0004.jpg" alt="Image 5">
+                <div class="caption">Ed and Xu</div>
+            </a>    
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240713-WA0007.jpg" alt="Image 8">
-            <div class="caption">Adrienne and Mona</div>
+            <a href="images/IMG-20240713-WA0007.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240713-WA0007.jpg" alt="Image 8">
+                <div class="caption">Adrienne and Mona</div>
+            </a>    
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240713-WA0009.jpg" alt="Image 9">
-            <div class="caption">Morred up for lunch</div>
+            <a href="images/IMG-20240713-WA0009.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240713-WA0009.jpg" alt="Image 9">
+                <div class="caption">Morred up for lunch</div>
+            </a>    
         </div>        
         <div class="gallery-item">
-            <img src="images/IMG-20240713-WA0013.jpg" alt="Image 5">
-            <div class="caption">We did it 11 miles 4.1/2 hours</div>
+            <a href="images/IMG-20240713-WA00013.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240713-WA0013.jpg" alt="Image 5">
+                <div class="caption">We did it! 11 miles 4.1/2 hours</div>
+            </a>    
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240713-WA0016.jpg" alt="Image 5">
-            <div class="caption">Hay on Wye Castle for Lunch</div>
+            <a href="images/IMG-20240713-WA0016.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240713-WA0016.jpg" alt="Image 5">
+                <div class="caption">Hay on Wye Castle for Lunch</div>
+            </a>    
         </div>
         <div class="gallery-item">
-            <img src="images/PXL_20240713_195348632.MP.jpg" alt="Image 10">
-            <div class="caption">Shedgh and Ed playing Pool</div>
+            <a href="images/PXL_20240713_195348632.MP.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/PXL_20240713_195348632.MP.jpg" alt="Image 10">
+                <div class="caption">Shedgh and Ed playing Pool</div>
+            </a>    
         </div>        
         <div class="gallery-item">
-            <img src="images/PXL_20240713_091408242.jpg" alt="Image 8">
-            <div class="caption">Paddling</div>
+            <a href="images/PXL_20240713_091408242.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/PXL_20240713_091408242.jpg" alt="Image 8">
+                <div class="caption">Paddling</div>
+            </a>    
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240713-WA0008.jpg" alt="Image 8">
-            <div class="caption">Flowers</div>
+            <a href="images/IMG-20240712-WA0008.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240713-WA0008.jpg" alt="Image 8">
+                <div class="caption">Flowers</div>
+            </a>    
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240712-WA0001.jpg" alt="Image 9">
-            <div class="caption">The tesco</div>
+            <a href="images/IMG-20240712-WA0001.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240712-WA0001.jpg" alt="Image 9">
+                <div class="caption">The tesco</div>
+            </a>    
         </div>        
         <div class="gallery-item">
-            <img src="images/IMG-20240714-WA0000.jpg" alt="Image 9">
-            <div class="caption">Tresure Trail in Hereford</div>
+            <a href="images/IMG-20240714-WA0000.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240714-WA0000.jpg" alt="Image 9">
+                <div class="caption">Tresure Trail in Hereford</div>
+            </a>    
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240714-WA0003.jpg" alt="Image 9">
-            <div class="caption">Edgar and Xu</div>
+            <a href="images/IMG-20240714-WA0003.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240714-WA0003.jpg" alt="Image 9">
+                <div class="caption">Edgar and Xu</div>
+            </a>    
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240714-WA0006.jpg.jpg" alt="Image 9">
-            <div class="caption">The King Pigeon</div>
+            <a href="images/IMG-20240714-WA0006.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240714-WA0006.jpg" alt="Image 9">
+                <div class="caption">The King Pigeon</div>
+            </a>    
         </div>                        
     </div>
     <p>Thank you for visiting the gallery!</p>
