@@ -90,11 +90,19 @@
         <div class="gallery-item">
             <img src="images/IMG-20240713-WA0009.jpg" alt="Image 9">
             <div class="caption">Morred up for lunch</div>
+        </div>        
+        <div class="gallery-item">
+            <img src="images/IMG-20240713-WA0013.jpg" alt="Image 5">
+            <div class="caption">We did it 11 miles 4.1/2 hours</div>
         </div>
         <div class="gallery-item">
             <img src="images/IMG-20240713-WA0016.jpg" alt="Image 5">
             <div class="caption">Hay on Wye Castle for Lunch</div>
         </div>
+        <div class="gallery-item">
+            <img src="images/PXL_20240713_195348632.MP.jpg" alt="Image 10">
+            <div class="caption">Shedgh and Ed playing Pool</div>
+        </div>        
         <div class="gallery-item">
             <img src="images/PXL_20240713_091408242.jpg" alt="Image 8">
             <div class="caption">Paddling</div>
@@ -119,10 +127,7 @@
             <img src="images/IMG-20240714-WA0006.jpg.jpg" alt="Image 9">
             <div class="caption">The King Pigeon</div>
         </div>                        
-        <div class="gallery-item">
-            <img src="images/PXL_20240713_195348632.MP.jpg" alt="Image 10">
-            <div class="caption">Shedgh and Ed playing Pool</div>
-        </div>
+
         </div>
     </div>
     <p>Thank you for visiting the gallery!</p>
