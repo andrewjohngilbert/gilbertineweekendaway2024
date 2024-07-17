@@ -36,7 +36,7 @@
             transition: transform 0.2s;
         }
         .gallery img:hover {
-            transform: scale(1.10);
+            transform: scale(1.50);
         }
         .caption {
             position: absolute;
@@ -64,7 +64,7 @@
             <div class="caption">On top of the Malvern Hills</div>
         </div>
         <div class="gallery-item">
-            <img src="images/IMG-20240712-WA0007.jpg" alt="Image 2">
+            <img src="images/IMG-20240712-WA0007-w.jpg" alt="Image 2">
             <div class="caption">A cow</div>
         </div>
         <div class="gallery-item">
@@ -76,44 +76,37 @@
             <div class="caption">Conaling on the River Wye</div>
         </div>
         <div class="gallery-item">
+            <img src="images/IMG-20240713-WA0003.jpg" alt="Image 6">
+            <div class="caption">The Group, with Sadegh and I after jsut capsizing</div>
+        </div>        
+        <div class="gallery-item">
             <img src="images/IMG-20240713-WA0004.jpg" alt="Image 5">
             <div class="caption">Ed and Xu</div>
         </div>
         <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 6">
-            <div class="caption">Caption for Image 6</div>
+            <img src="images/IMG-20240713-WA0007.jpg" alt="Image 8">
+            <div class="caption">Adrienne and Mona</div>
         </div>
         <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 8">
-            <div class="caption">Caption for Image 8</div>
+            <img src="images/IMG-20240713-WA0009.jpg" alt="Image 9">
+            <div class="caption">Morred up for lunch</div>
         </div>
         <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 9">
-            <div class="caption">Caption for Image 9</div>
+            <img src="images/IMG-20240714-WA0000.jpg" alt="Image 9">
+            <div class="caption">Tresure Trail in Hereford</div>
         </div>
+        <div class="gallery-item">
+            <img src="images/IMG-20240714-WA0003.jpg" alt="Image 9">
+            <div class="caption">Edgar and Xu</div>
+        </div>
+        <div class="gallery-item">
+            <img src="images/IMG-20240714-WA0006.jpg.jpg" alt="Image 9">
+            <div class="caption">The King Pigeon</div>
+        </div>                        
         <div class="gallery-item">
             <img src="images/PXL_20240713_195348632.MP.jpg" alt="Image 10">
             <div class="caption">Shedgh and Ed playing Pool</div>
         </div>
-        <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 11">
-            <div class="caption">Caption for Image 11</div>
-        </div>
-        <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 12">
-            <div class="caption">Caption for Image 12</div>
-        </div>
-        <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 13">
-            <div class="caption">Caption for Image 13</div>
-        </div>
-        <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 14">
-            <div class="caption">Caption for Image 14</div>
-        </div>
-        <div class="gallery-item">
-            <img src="https://via.placeholder.com/150" alt="Image 15">
-            <div class="caption">Caption for Image 15</div>
         </div>
     </div>
     <p>Thank you for visiting the gallery!</p>
