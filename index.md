@@ -88,7 +88,7 @@
         <div class="gallery-item">
             <a href="images/IMG-20240713-WA0003.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
                 <img src="images/IMG-20240713-WA0003.jpg" alt="Image 6">
-                <div class="caption">The Group, with Sadegh and I after jsut capsizing</div>
+                <div class="caption">The Group, with Sadegh and I after just capsizing</div>
             </a>
         </div>        
         <div class="gallery-item">
@@ -106,7 +106,7 @@
         <div class="gallery-item">
             <a href="images/IMG-20240713-WA0009.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
                 <img src="images/IMG-20240713-WA0009.jpg" alt="Image 9">
-                <div class="caption">Morred up for lunch</div>
+                <div class="caption">Moored up for lunch</div>
             </a>    
         </div>        
         <div class="gallery-item">
@@ -152,8 +152,8 @@
             </a>    
         </div>
         <div class="gallery-item">
-            <a href="images/IMG-20240714-WA0003.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
-                <img src="images/IMG-20240714-WA0003.jpg" alt="Image 9">
+            <a href="images/IMG-20240714-WA0001.jpg" data-lightbox="gallery" data-title="On top of the Malvern Hills">    
+                <img src="images/IMG-20240714-WA0001.jpg" alt="Image 9">
                 <div class="caption">Edgar and Xu</div>
             </a>    
         </div>
